@@ -15,6 +15,7 @@ class Gif extends Component {
     return (
       <img src={src} class="gif" alt={this.props.alt}
       onClick={this.handleClick}></img>
+
     )}
 
 }
