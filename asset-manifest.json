@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/homer-react-app/static/css/main.ce0a776e.css",
+    "main.js": "/homer-react-app/static/js/main.38e8b34d.js",
+    "index.html": "/homer-react-app/index.html",
+    "main.ce0a776e.css.map": "/homer-react-app/static/css/main.ce0a776e.css.map",
+    "main.38e8b34d.js.map": "/homer-react-app/static/js/main.38e8b34d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce0a776e.css",
+    "static/js/main.38e8b34d.js"
+  ]
+}
